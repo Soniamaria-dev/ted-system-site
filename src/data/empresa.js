@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Produção Sustentável",
+      descricao: "Não ultilizar praticas que desmatam o meio ambiente."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Sônia Maria",
+      cargo: "Veterinária",
+      foto: "",
+      alt: "Foto da Veterinária",
+      descricao: "Cuida dos bichos."
     }
   ]
 };
